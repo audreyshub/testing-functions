@@ -1,0 +1,24 @@
+{
+  "name": "testing-functions",
+  "version": "1.0.0",
+  "description": "A simple test to deploy functions on Netlify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "netlify-lambda serve functions",
+    "build": "netlify-lambda build functions"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/audreyshub/testing-functions.git"
+  },
+  "author": "Audrey Wong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/audreyshub/testing-functions/issues"
+  },
+  "homepage": "https://github.com/audreyshub/testing-functions#readme",
+  "devDependencies": {
+    "netlify-lambda": "^2.0.3"
+  }
+}
