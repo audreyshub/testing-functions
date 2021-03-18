@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/audreyshub/testing-functions.git"
+    "url": "https://github.com/audreyshub/testing-functions.git"
   },
   "author": "Audrey Wong",
   "license": "ISC",
