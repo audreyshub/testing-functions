@@ -6,6 +6,6 @@ exports.handler = async function(event, context) {
         "Access-Control-Allow-Headers": "Content-Type",
         "Access-Control-Allow-Methods": "GET, POST, OPTION",
       },
-        body: "Hello World"
+        body: "Hello World! It's me, Audrey."
     };
 }
